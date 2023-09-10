@@ -4,7 +4,7 @@
 import math
 from unittest import result
 
-# for test 2023/9/10(Sun.)
+# for test of VS code 2023/9/10(Sun.)
 class Dog:
     name = ""
     def bark(self):
