@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # __coding: UTF-8 __
 
+# for test 2023/9/20 by NAOSHI Watanuki.
 import math
 from unittest import result
 
